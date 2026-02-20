@@ -69,6 +69,13 @@ Recall (High Rated Films): ~57%
 
 ---
 
+## 📚 Data Source
+
+The datasets used in this project were provided through a DataCamp learning exercise.
+All data is used for educational and portfolio purposes only.
+
+---
+
 ## Future Improvements
 
 - Hyperparameter tuning
