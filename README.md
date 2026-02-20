@@ -17,11 +17,13 @@ The workflow includes:
 
 ## Project Structure
 
+```
 movie-rating-prediction/
 │
 ├── data/
 │   ├── raw/
 │   └── processed/
+│       └── films_engineered.csv
 │
 ├── notebooks/
 │   ├── 01_data_engineering.ipynb
@@ -29,6 +31,7 @@ movie-rating-prediction/
 │
 ├── README.md
 └── requirements.txt
+```
 
 ---
 
